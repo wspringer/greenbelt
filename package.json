@@ -9,7 +9,7 @@
   "dependencies": {
     "bottleneck": "^2.19.5",
     "download": "^7.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "progress": "^2.0.3",
     "scrape-it": "^5.1.4",
     "write": "^1.0.3"
